@@ -1,0 +1,10 @@
+.circle {
+  border: 10px solid #ccc;
+  border-radius: 50%;
+
+  cursor: pointer;
+}
+
+.highlighted {
+  border: 10px solid deeppink;
+}
